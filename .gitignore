@@ -1,0 +1,10 @@
+node_modules/
+.git/
+.DS_Store
+dist
+dist-ssr
+*.local
+coverage
+.env
+.env.*
+test/
